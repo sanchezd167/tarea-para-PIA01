@@ -6,3 +6,4 @@
   <p>2-. Conectar con la comunidad en redes sociales, a través de Twitter (X) o a de LinkedIn. En dichas redes sociales <tr>
   tendremos que buscar perfiles interesantes que compartan conocimientos e información acerca de la IA, los seguiremos y <tr>
   posteriormente añadirlos a una lista previamente creada en X.</p><tr>
+ 
